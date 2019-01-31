@@ -13,10 +13,11 @@
 - `statsmodels` version 0.9.0 or later
 
 위 패키지들을 [conda](http://conda.pydata.org/docs/intro.html)를 통해 설치하길 권장합니다. conda 설치 후 아래 커맨드를 실행하면 필요한 모든 패키지들이 설치된 파이썬 환경을 만들 수 있습니다.
-    ```bash
-    conda create --name tsa python=3
-    conda install pandas jupyter seaborn scikit-learn statsmodels
-    ```
+
+```bash
+conda create --name tsa python=3
+conda install pandas jupyter seaborn scikit-learn statsmodels
+```
 
 
 ## Setup instruction
