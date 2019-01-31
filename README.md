@@ -23,14 +23,14 @@
 
 1. 프로젝트를 clone 합니다:
     ```bash
-    git clone https://github.com/midnightradio/time-series-analysis-pandas-tutorial.git
+    git clone https://github.com/midnightradio/tsa-tutorial.git
     ```
 
 2. Python 3 환경이 필요합니다. 되도록 [conda](http://conda.pydata.org/docs/intro.html)를 설치하길 권장합니다.
 
 3. 아래 커맨드로 After that, install the environment for this hands-on by running:
     ```bash
-    cd time-series-analysis-pandas-tutorial/
+    cd tsa-tutorial/
     conda env create --file environment.yml
     ```
 
