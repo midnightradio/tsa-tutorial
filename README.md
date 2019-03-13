@@ -1,5 +1,7 @@
 # Time Series Analysis with Pandas
 
+19년 1월 24일 T-Academy 에서 진행한 강좌에 사용된 자료입니다. 해당 강좌는 [Youtube](https://www.youtube.com/playlist?list=PLfknNs5QQyrXp7yuslfB5g_Yylj3Rz2fy) 에서 보실 수 있습니다. 
+
 ## Requirements for running tutorial
 
 - Python version 3
